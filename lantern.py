@@ -1,5 +1,5 @@
 # ============================================================================ #
-#                       Lantern: Student Survey Data Analysis                   #
+#                       Lantern: Student Survey Data Analysis                  #
 # ============================================================================ #
 # Author: Leanne Cheng
 # Description: Generates four visualizations to analyze the learning patterns of
